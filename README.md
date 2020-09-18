@@ -6,7 +6,8 @@ Ini merupakan restapi data Mahasiswa yang dibangun menggunakan framework lumen d
 1. clone repositori ini
 2. buat database yang sesuai dengan file .env
 3. lakukan migrasi database dengan tulis ' php artisan migrate ' pada command line
-4. silahkan cek menggunakan aplikasi postman
+4. jalankan aplikasi dengan ketik "php -S localhost:8000 -t public" pada commandprompt terkait
+5. silahkan cek menggunakan aplikasi postman
 
 ## Fitur restapi
 - get all       = (get) http://localhost:8000/api/all
